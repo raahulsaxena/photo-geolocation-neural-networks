@@ -1,4 +1,4 @@
-# Photo Geolocation with Neural Networks
+# Outdoor Image Geotagging via CNNs and Google Street View Data
 Building a neural network that predicts that can geotag an outdoor image and how to catch a cheating neural network with grad-cam
 
 
